@@ -1,4 +1,7 @@
 # DIO - Trilha .NET - Banco de Dados
+
+*Desafio resolvido! Todas as resoluções para as questões abaixo podem ser encontradas no arquivo "Desafio DIO SQL Resolvido.sql".*
+
 www.dio.me
 
 ## Desafio de projeto
